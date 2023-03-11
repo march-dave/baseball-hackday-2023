@@ -1,0 +1,71 @@
+[{
+        "id": 0,
+        "name": "Kendrys Morales",
+        "pos": "DH",
+        "picture": "https://securea.mlb.com/mlb/images/players/head_shot/434778.jpg",
+        "salary": 12000000
+    },
+    {
+        "id": 1,
+        "name": "Justin Smoak",
+        "pos": "1B",
+        "picture": "https://securea.mlb.com/mlb/images/players/head_shot/475253.jpg",
+        "salary": 8000000
+    },
+    {
+        "id": 2,
+        "name": "Marcus Stroman",
+        "pos": "SP",
+        "picture": "https://securea.mlb.com/mlb/images/players/head_shot/573186.jpg",
+        "salary": 7400000
+    },
+    {
+        "id": 3,
+        "name": "Ken Giles",
+        "pos": "RP",
+        "picture": "https://securea.mlb.com/mlb/images/players/head_shot/571704.jpg",
+        "salary": 6300000
+    },
+    {
+        "id": 4,
+        "name": "Kevin Pillar",
+        "pos": "CF",
+        "picture": "https://securea.mlb.com/mlb/images/players/head_shot/607680.jpg",
+        "salary": 5800000
+    },
+    {
+        "id": 5,
+        "name": "Randal Grichuk",
+        "pos": "RF",
+        "picture": "https://securea.mlb.com/mlb/images/players/head_shot/545341.jpg",
+        "salary": 5000000
+    },
+    {
+        "id": 6,
+        "name": "Freddy Galvis",
+        "pos": "SS",
+        "picture": "https://securea.mlb.com/mlb/images/players/head_shot/520471.jpg",
+        "salary": 5000000
+    },
+    {
+        "id": 7,
+        "name": "Aaron Sanchez",
+        "pos": "SP",
+        "picture": "https://securea.mlb.com/mlb/images/players/head_shot/592717.jpg",
+        "salary": 3900000
+    },
+    {
+        "id": 8,
+        "name": "Matt Shoemaker",
+        "pos": "SP",
+        "picture": "https://securea.mlb.com/mlb/images/players/head_shot/533167.jpg",
+        "salary": 3500000
+    },
+    {
+        "id": 9,
+        "name": "Clayton Richard",
+        "pos": "SB",
+        "picture": "https://securea.mlb.com/mlb/images/players/head_shot/453385.jpg",
+        "salary": 3300000
+    }
+]
